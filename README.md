@@ -1,6 +1,6 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="left">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am a passionate Web Developer and aspiring software Engineer
+### :smiley_cat: I am Bayanda, a passionate Web Developer and aspiring software Engineer.
 
 ## By the way here are some of my statistics 🚀
 ![BayandaButhelezi's github stats](https://github-readme-stats.vercel.app/api?username=BayandaButhelezi&show_icons=true&theme=tokyonight)
@@ -10,7 +10,7 @@
 🌱 I’m currently learning Remix and Next.js
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](bayandafedrickbuthelezi10@gmail.com)
+📫 [![Gmail Badge](https://img.shields.io/badge/-bayandafedrickbuthelezi10@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:bayandafedrickbuthelezi10@gmail.com)](bayandafedrickbuthelezi10@gmail.com)
 
 
 <h6 align="left">Made with ❤️ by Me (probably)</h6>
